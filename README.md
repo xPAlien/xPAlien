@@ -2,7 +2,13 @@
 
 
 ## 🚀 About Me
-I'm a Configuration Technician durning the day and working on my Bachelors Degree in Cyber Security and Cloud Administration.
+I'm a Configuration Technician durning the day and working on my Bachelors Degree in Cyber Security and Cloud Administration. 
+
+I am also a 🖥️ Pro Tools Engineer with 10+ years experience. 
+
+👨🏾‍💻 Try Hack me Top 5%
+
+👨🏾‍🎓 Life Long Learner 👨🏾‍🎓
 
 
 <h2>🥷🏽 Cyber Security/Cloud Projects:</h2>
