@@ -2,7 +2,9 @@
 
 
 ## 🚀 About Me
-I'm a Configuration Technician durning the day and working on my Bachelors Degree in Cyber Security and Cloud Administration. 
+I'm a Associate Project Engineer durning the day and working on my Bachelors Degree in Cloud Computing. 
+
+I am currently Learning Git, Linux, and Python to prepare for my future career in DevOps. 
 
 I am also a 🖥️ Pro Tools Engineer with 10+ years experience. 
 
