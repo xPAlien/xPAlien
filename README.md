@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Associate Project Engineer during the day and working on my Bachelor's Degree in Cloud Computing.<br>I am currently Learning Git, Linux, and Python to prepare for my future career in DevOps.<br>I am also a 🖥️ Pro Tools Engineer with 10+ years of experience.<br>👨🏾‍💻 Try Hack me Top 5%<br>👨🏾‍🎓 Life Long Learner 👨🏾‍🎓
+I'm an Associate Project Engineer during the day and working on my Bachelor's Degree in Cloud Computing.<br>I am currently Learning Git, Linux, and Python to prepare for my future career in DevOps.<br>I am also a 🖥️ Pro Tools Engineer / 🎹 Music Producer with 10+ years of experience.<br>👨🏾‍💻 Try Hack me Top 5%<br>👨🏾‍🎓 Life Long Learner 👨🏾‍🎓
 
 
 ## 🌐 Socials:
