@@ -16,13 +16,10 @@ I'm an Associate Project Engineer during the day and working on my Bachelor's De
 ![](https://github-profile-trophy.vercel.app/?username=xPAlien&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=xPALien)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=xPALien)](https://github.com/xPAlien/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xPAlien&icon=2&color=12)](https://visitcount.itsvg.in)
