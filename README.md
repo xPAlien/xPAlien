@@ -15,10 +15,6 @@ I'm an Associate Project Engineer during the day and working on my Bachelor's De
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xPAlien&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=xPALien)](https://github.com/xPAlien/github-twitter-card-embed)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=xPAlien&icon=2&color=12)](https://visitcount.itsvg.in)
 
