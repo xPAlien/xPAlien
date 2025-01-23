@@ -18,8 +18,6 @@ I'm an Associate Project Engineer during the day and working on my Bachelor's De
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=xPALien)](https://github.com/xPAlien/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xPAlien&icon=2&color=12)](https://visitcount.itsvg.in)
