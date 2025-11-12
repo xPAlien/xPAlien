@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xPAlien/xPAlien/main/banner.png" alt="Benjamin Monroe | Cloud & Security Engineer | BenMonroe.ai" width="100%">
+</p>
+
 # 👋🏾 Hi, I'm Benjamin Monroe
 
 💼 **Associate Project Engineer** at [World Wide Technology](https://www.wwt.com)  
@@ -22,7 +26,8 @@
 - 🔧 Learning **DevSecOps**, IaC with Terraform, Docker, and Ansible  
 - 🧠 Exploring **AI for cybersecurity** and digital automation  
 - 🚀 Growing [**DigitalRichKid.com**](https://digitalrichkid.com) – AI-driven digital wealth ecosystem  
-- 🪨 Building [**MOAISecurity.com**](https://moaisecurity.com) – AI security & trust technology
+- 🧱 Developing [**MOAISecurity.com**](https://moaisecurity.com) – AI security & trust technology  
+- 🌐 Building my personal brand at [**BenMonroe.ai**](https://benmonroe.ai)
 
 ---
 
@@ -50,6 +55,3 @@
 ## ☕ Support My Work
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xPAlien)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/xPMusik)
-
----
-🧩 *“Longevity. Trust. Protection.” – [MOAI Security](https://moaisecurity.com)*
