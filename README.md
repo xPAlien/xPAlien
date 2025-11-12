@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xPAlien/xPAlien/main/banner.png" alt="Benjamin Monroe Banner" width="100%">
+</p>
+
 # 👋🏾 Hi, I'm Benjamin Monroe
 
 💼 **Associate Project Engineer** at [World Wide Technology](https://www.wwt.com)  
@@ -43,8 +47,34 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=xPAlien&theme=react&hide_border=false&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=xPAlien&theme=react&hide_border=false)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xPAlien&show_icons=true&count_private=true&theme=react&cache_seconds=1800&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xPAlien&theme=react&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPAlien&layout=compact&theme=react&count_private=true&langs_count=8&cache_seconds=1800" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xPAlien&theme=discord&no-frame=false&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔥 Profile Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xPAlien&theme=react-dark&hide_border=false&area=true" alt="GitHub Activity Graph" width="95%">
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=xPAlien&icon=2&color=12" alt="Profile Views Counter" />
+  </a>
+</p>
 
 ---
 
