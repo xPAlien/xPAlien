@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xPAlien/xPAlien/main/banner.png" alt="Benjamin Monroe | Cloud & Security Engineer | BenMonroe.ai" width="100%">
-</p>
-
 # 👋🏾 Hi, I'm Benjamin Monroe
 
 💼 **Associate Project Engineer** at [World Wide Technology](https://www.wwt.com)  
