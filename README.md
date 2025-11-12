@@ -71,9 +71,7 @@
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=xPAlien&icon=2&color=12" alt="Profile Views Counter" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=xpalien&label=Profile+Views&color=0e75b6&style=flat" alt="xPAlien profile views" />
 </p>
 
 ---
