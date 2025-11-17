@@ -93,9 +93,12 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xPAlien&show_icons=true&count_private=true&theme=react&cache_seconds=1800&hide_border=false" height="150" alt="Benjamin Monroe's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xPAlien&theme=react&hide_border=false" height="150" alt="Benjamin Monroe's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPAlien&layout=compact&theme=react&count_private=true&langs_count=8&cache_seconds=1800" height="150" alt="Benjamin Monroe's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xPAlien&show_icons=true&count_private=true&theme=react&cache_seconds=1800&hide_border=false" alt="Benjamin Monroe's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xPAlien&theme=react&hide_border=false" alt="Benjamin Monroe's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPAlien&layout=compact&theme=react&count_private=true&langs_count=8&cache_seconds=1800" alt="Benjamin Monroe's Top Languages" width="49%" />
 </p>
 
 ---
@@ -115,7 +118,7 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xPAlien/xPAlien/output/github-contribution-grid-snake-dark.svg" alt="Snake animation showing Benjamin Monroe's contributions" />
+  <img src="https://raw.githubusercontent.com/xPAlien/xPAlien/output/github-contribution-grid-snake-dark.svg" alt="Snake animation showing Benjamin Monroe's contributions" width="95%" />
 </p>
 
 <p align="center">
@@ -138,9 +141,3 @@ If you find my projects helpful or want to support my work in cloud security and
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/q3deyiflxy)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xPMusik)
-
----
-
-<p align="center">
-  <i>"Building secure systems, one line of code at a time."</i>
-</p>
