@@ -92,14 +92,14 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xPAlien&show_icons=true&count_private=true&theme=react&cache_seconds=1800&hide_border=false" alt="Benjamin Monroe's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xPAlien&theme=react&hide_border=false" alt="Benjamin Monroe's GitHub Streak" width="49%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xPAlien&show_icons=true&count_private=true&theme=react&cache_seconds=1800&hide_border=false" alt="Benjamin Monroe's GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=xPAlien&theme=react&hide_border=false" alt="Benjamin Monroe's GitHub Streak" height="180" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPAlien&layout=compact&theme=react&count_private=true&langs_count=8&cache_seconds=1800" alt="Benjamin Monroe's Top Languages" width="49%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPAlien&layout=compact&theme=react&count_private=true&langs_count=8&cache_seconds=1800&hide_border=false" alt="Benjamin Monroe's Top Languages" height="180" />
+</div>
 
 ---
 
