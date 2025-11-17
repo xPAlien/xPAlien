@@ -23,6 +23,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCxb0SpElOx1buCVdCuc7dcA)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/xPAlien)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/xPAlien)
+[![Music Website](https://img.shields.io/badge/🎵_BuySomeBeats.com-FF6B6B?style=flat&logoColor=white)](https://buysomebeats.com)
 
 ---
 
@@ -46,6 +47,8 @@ With **10+ years** of experience as a **Pro Tools Certified Engineer** and Music
 - 🎼 **Sound Design** for music, podcasts, and multimedia projects
 
 My dual expertise in **technology and music** gives me a unique perspective on creative problem-solving and attention to detail.
+
+🎧 **Check out my beats and production services:** [BuySomeBeats.com](https://buysomebeats.com)
 
 ---
 
