@@ -52,70 +52,11 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Cloud Security Labs</h3>
-      <p align="center">
-        <a href="https://github.com/xPAlien/cloud-security-labs" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project" />
-        </a>
-      </p>
-      <p>Hands-on cloud security labs covering AWS, Azure, and GCP security best practices, IAM policies, and infrastructure hardening.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">DevSecOps Pipeline</h3>
-      <p align="center">
-        <a href="https://github.com/xPAlien/devsecops-pipeline" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project" />
-        </a>
-      </p>
-      <p>Automated CI/CD pipeline with integrated security scanning, SAST/DAST tools, and Infrastructure as Code validation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI Security Toolkit</h3>
-      <p align="center">
-        <a href="https://github.com/xPAlien/ai-security-toolkit" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project" />
-        </a>
-      </p>
-      <p>Python-based security automation tools leveraging AI/ML for threat detection and security monitoring.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Home Lab Infrastructure</h3>
-      <p align="center">
-        <a href="https://github.com/xPAlien/homelab-iac" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project" />
-        </a>
-      </p>
-      <p>Complete home lab setup with Terraform, Docker, and Ansible for learning cloud technologies and security practices.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🎓 Certifications & Badges
 
 <p align="center">
   <a href="https://www.credly.com/users/benmonroejr" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.credly.com/users/benmonroejr">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  <a href="https://www.credly.com/users/benmonroejr">
-    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="Azure Fundamentals" />
-  </a>
-  <a href="https://www.credly.com/users/benmonroejr">
-    <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/image.png" width="120" alt="Security+" />
   </a>
 </p>
 
@@ -188,19 +129,6 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 <!-- BLOG-POST-LIST:START -->
 _Coming soon! Stay tuned for articles on cloud security, DevSecOps, and AI-driven automation._
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Open for Collaboration
-
-I'm always interested in connecting with fellow technologists, security professionals, and creative minds. Feel free to reach out if you're interested in:
-
-- 💼 **Cloud Security Consulting** - Architecture reviews, security audits, and best practices
-- 🔐 **DevSecOps Projects** - Building secure CI/CD pipelines and automation
-- 🧠 **AI/ML Security Research** - Exploring intersection of AI and cybersecurity
-- 🎵 **Audio Engineering Projects** - Music production, mixing, and sound design
-- 📚 **Speaking Opportunities** - Tech talks, workshops, and knowledge sharing
-- 🤖 **Open Source Contributions** - Security tools and cloud automation
 
 ---
 
