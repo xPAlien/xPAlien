@@ -94,7 +94,7 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xPAlien&show_icons=true&count_private=true&theme=react&cache_seconds=1800&hide_border=false" alt="Benjamin Monroe's GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=xPAlien&theme=react&hide_border=false" alt="Benjamin Monroe's GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xPAlien&theme=react&hide_border=false" alt="Benjamin Monroe's GitHub Streak" height="180" />
 </div>
 
 <div align="center">
