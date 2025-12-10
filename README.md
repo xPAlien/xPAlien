@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Cloud+Security+Engineer;DevSecOps+Enthusiast;Pro+Tools+Engineer" alt="typing">
-</p>
-
 # 👋🏾 Hi, I'm Benjamin Monroe
 
 💼 **Associate Project Engineer** at [World Wide Technology](https://www.wwt.com)  
@@ -9,6 +5,21 @@
 ☁️ Future **Cloud Security Engineer**  
 🎧 **Pro Tools Engineer / Music Producer** (10+ years)  
 🔐 **TryHackMe Top 3% | Lifelong Learner**
+
+---
+
+## 📋 Table of Contents
+- [🌍 Connect With Me](#-connect-with-me)
+- [⚙️ Current Focus](#️-current-focus)
+- [🎵 Music Production & Audio Engineering](#-music-production--audio-engineering)
+- [🎓 Certifications & Badges](#-certifications--badges)
+- [💻 Tech & Tools](#-tech--tools)
+- [📊 GitHub Stats](#-github-stats)
+- [🏆 GitHub Trophies](#-github-trophies)
+- [🔥 Profile Activity](#-profile-activity)
+- [📝 Latest Blog Posts & Articles](#-latest-blog-posts--articles)
+- [☕ Support My Work](#-support-my-work)
+- [🤝 Contributing / Contact](#-contributing--contact)
 
 ---
 
@@ -89,13 +100,12 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Changed username to lowercase (xpalien) because some services are case-sensitive -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xpalien&show_icons=true&count_private=true&theme=react&cache_seconds=1800&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xpalien&theme=react&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <img src="./assets/streak.svg" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpalien&layout=compact&theme=react&count_private=true&langs_count=8&cache_seconds=1800&hide_border=false" alt="Top Languages" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
@@ -103,7 +113,7 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xpalien&theme=discord&no-frame=false&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+  <img src="./assets/trophies.svg" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -111,7 +121,7 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 ## 🔥 Profile Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xpalien&theme=react-dark&hide_border=false&area=true" alt="Activity Graph" width="95%" />
+  <img src="./assets/activity-graph.svg" alt="Activity Graph" width="95%" />
 </p>
 
 <p align="center">
@@ -119,7 +129,7 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xpalien&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="./assets/profile-views.svg" alt="Profile Views" />
 </p>
 
 ---

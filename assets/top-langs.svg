@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195">
+  <rect width="300" height="195" fill="#0d1117" rx="4.5"/>
+  <text x="150" y="97.5" font-family="Arial, sans-serif" font-size="18" fill="#58a6ff" text-anchor="middle" dominant-baseline="middle">
+    Top Languages
+  </text>
+  <text x="150" y="120" font-family="Arial, sans-serif" font-size="12" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">
+    Placeholder
+  </text>
+</svg>
