@@ -1,25 +1,32 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xPAlien/xPAlien/main/banner.png" alt="Benjamin Monroe Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Cloud+Security+Engineer;DevSecOps+Enthusiast;Pro+Tools+Engineer;Music+Producer;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 # 👋🏾 Hi, I'm Benjamin Monroe
 
-💼 **Associate Project Engineer** at [World Wide Technology](https://www.wwt.com)
-🎓 **Bachelor's in Cloud Computing (In Progress)**
-☁️ Future **Cloud Security Engineer**
-🎧 **Pro Tools Engineer / Music Producer** (10+ years)
+💼 **Associate Project Engineer** at [World Wide Technology](https://www.wwt.com)  
+🎓 **Bachelor's in Cloud Computing (In Progress)**  
+☁️ Future **Cloud Security Engineer**  
+🎧 **Pro Tools Engineer / Music Producer** (10+ years)  
 🔐 **TryHackMe Top 3% | Lifelong Learner**
+
+---
+
+## Table of Contents
+- [Connect With Me](#-connect-with-me)
+- [Current Focus](#-current-focus)
+- [Music Production & Audio Engineering](#-music-production--audio-engineering)
+- [Certifications & Badges](#-certifications--badges)
+- [Tech & Tools](#-tech--tools)
+- [GitHub Stats & Activity](#-github-stats--activity)
+- [Support My Work](#-support-my-work)
+- [Contributing / Contact](#-contributing--contact)
 
 ---
 
 ## 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benmonroejr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xpalien)
-[![Twitter](https://img.shields.io/badge/X-%2312100E.svg?logo=X&logoColor=white)](https://twitter.com/xPALien)
+[![X](https://img.shields.io/badge/X-%2312100E.svg?logo=X&logoColor=white)](https://twitter.com/xPALien)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCxb0SpElOx1buCVdCuc7dcA)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/xPAlien)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/xPAlien)
@@ -75,54 +82,41 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white)
 
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)
-
-### 🎨 Creative & Productivity Tools
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)
-
-### 🔌 Hardware & IoT
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&logoColor=white)
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xPAlien&show_icons=true&count_private=true&theme=react&cache_seconds=1800&hide_border=false" alt="Benjamin Monroe's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xPAlien&theme=react&hide_border=false" alt="Benjamin Monroe's GitHub Streak" height="180" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats (static)" />
+  <img src="./assets/streak.svg" alt="GitHub Streak (static)" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPAlien&layout=compact&theme=react&count_private=true&langs_count=8&cache_seconds=1800&hide_border=false" alt="Benjamin Monroe's Top Languages" height="180" />
+  <img src="./assets/top-langs.svg" alt="Top Languages (static)" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (static)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xPAlien&theme=discord&no-frame=false&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+  <img src="./assets/trophies.svg" alt="GitHub Trophies (static)" />
 </p>
 
 ---
 
-## 🔥 Profile Activity
+## 🔥 Profile Activity (static)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xPAlien&theme=react-dark&hide_border=false&area=true" alt="Benjamin Monroe's GitHub Activity Graph" width="95%">
+  <img src="./assets/activity-graph.svg" alt="Activity Graph (static)" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xPAlien/xPAlien/output/github-contribution-grid-snake-dark.svg" alt="Snake animation showing Benjamin Monroe's contributions" width="95%" />
+  <img src="https://raw.githubusercontent.com/xPAlien/xPAlien/output/github-contribution-grid-snake-dark.svg" alt="Snake animation showing contributions" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xpalien&label=Profile+Views&color=0e75b6&style=flat" alt="Benjamin Monroe's profile views" />
+  <img src="./assets/profile-views.svg" alt="Profile Views (static)" />
 </p>
 
 ---
@@ -141,3 +135,11 @@ If you find my projects helpful or want to support my work in cloud security and
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/q3deyiflxy)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xPMusik)
+
+---
+
+## 🤝 Contributing / Contact
+- PRs are welcome — feel free to open issues for suggestions or improvements.
+- For collaborations, client work, or music production: connect via LinkedIn or email (listed on my profile).
+
+_Last updated: 2025-12-10_
