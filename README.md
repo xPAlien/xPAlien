@@ -274,7 +274,6 @@ If you find my projects helpful or want to support my work in cloud security and
 
 - 💡 PRs are welcome — feel free to open issues for suggestions or improvements
 - 🤝 For collaborations, client work, or music production: connect via [LinkedIn](https://linkedin.com/in/benmonroejr)
-- 📧 Email: Available on my [GitHub profile](https://github.com/xPAlien)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xpalien&label=Profile+Views&color=F75C7E&style=for-the-badge" alt="Profile Views"/>
