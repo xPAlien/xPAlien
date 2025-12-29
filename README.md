@@ -239,10 +239,6 @@ My dual expertise in **technology and music** gives me a unique perspective on c
   </a>
 </p>
 
-<p align="center">
-  <i>Explore the projects and tools that inspire my work in cloud security, DevOps, and AI innovation.</i>
-</p>
-
 ---
 
 ## 🔥 Profile Activity
