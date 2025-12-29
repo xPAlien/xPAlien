@@ -255,40 +255,6 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xpalien&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xpalien&theme=react&hide_border=false&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xpalien&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=xpalien&theme=discord&no-frame=false&no-bg=false&margin-w=10&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/xPAlien">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=xpalien&repo=cloud-security-toolkit&theme=react&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=C9D1D9&hide_border=false" alt="Cloud Security Toolkit"/>
-  </a>
-  <a href="https://github.com/xPAlien">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=xpalien&repo=devops-automation&theme=react&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=C9D1D9&hide_border=false" alt="DevOps Automation"/>
-  </a>
-</div>
-
----
-
 ## 🔥 Profile Activity
 
 <p align="center">
