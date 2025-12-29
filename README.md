@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="banner.png" alt="Benjamin Monroe Banner" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Cloud+Security+Engineer;DevSecOps+Enthusiast;Pro+Tools+Engineer;AI+Security+Innovator" alt="typing">
 </p>
 
@@ -37,12 +33,12 @@
 <a href="https://getfilezen.com" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
-<p><strong>AI-Powered File Management</strong></p>
-<p>Intelligent file organization and management system powered by AI to streamline your digital workspace.</p>
+<p><strong>File Organization, Simplified</strong></p>
+<p>Smart file organization for macOS and Windows. Find duplicates, flatten folders, and keep everything perfectly organized.</p>
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
 </p>
 </div>
 </td>
@@ -138,7 +134,7 @@
 - 🚀 Growing [**DigitalRichKid.com**](https://digitalrichkid.com) – AI-driven digital wealth ecosystem
 - 🧱 Developing [**MOAISecurity.com**](https://moaisecurity.com) – AI security & trust technology
 - 🌐 Building my personal brand at [**BenMonroe.ai**](https://benmonroe.ai)
-- 📱 Launching [**FileZen**](https://getfilezen.com) – AI-powered file management
+- 📱 Launching [**FileZen**](https://getfilezen.com) – Smart file organization for macOS & Windows
 
 ---
 
