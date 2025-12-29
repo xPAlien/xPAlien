@@ -98,36 +98,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<br><br>
-<img src="https://progress-bar.xyz/75/?title=Progress&width=200"/>
-<br>
-<sub>Container Orchestration & Security</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<br><br>
-<img src="https://progress-bar.xyz/40/?title=Progress&width=200"/>
-<br>
-<sub>Cloud-Native Development</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/AWS_Security-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<br><br>
-<img src="https://progress-bar.xyz/65/?title=Progress&width=200"/>
-<br>
-<sub>Security Specialty Certification</sub>
-</td>
-</tr>
-</table>
-
----
-
 ## ⚙️ Current Focus
 - 🌩 Building **cloud-native security projects** on AWS, Azure, and GCP
 - 🔧 Mastering **DevSecOps**, IaC with Terraform, Docker, and Kubernetes
