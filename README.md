@@ -9,6 +9,7 @@
 ☁️ Future **Cloud Security Engineer**
 🎧 **Pro Tools Engineer / Music Producer** (10+ years)
 🔐 **TryHackMe Top 3% | Lifelong Learner**
+🎯 **Starting SANS Cyber Academy in 2026**
 
 ---
 
@@ -203,6 +204,23 @@
 
 **Productivity**
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Development Tools</b></summary>
+<br>
+
+**AI Assistants**
+![Claude Code](https://img.shields.io/badge/Claude_Code-181A1F?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+
+**Development Environments**
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kilo Code](https://img.shields.io/badge/Kilo_Code-4A90E2?style=for-the-badge&logo=code&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
 
 </details>
 
