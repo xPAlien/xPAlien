@@ -258,11 +258,18 @@ My dual expertise in **technology and music** gives me a unique perspective on c
   </a>
 </p>
 
-<!-- Replace these with your actual Credly badge URLs -->
+---
+
+## ⭐ Recently Starred Repos
+
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Cloud Practitioner"/>
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="Azure Fundamentals"/>
-  <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/image.png" width="120" alt="Security+"/>
+  <a href="https://github.com/xPAlien?tab=stars" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Starred%20Repos-F75C7E?style=for-the-badge&logo=github&logoColor=white" alt="Starred Repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore the projects and tools that inspire my work in cloud security, DevOps, and AI innovation.</i>
 </p>
 
 ---
@@ -275,14 +282,6 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/xPAlien/xPAlien/output/github-contribution-grid-snake-dark.svg" alt="Snake animation showing contributions" width="95%"/>
-</p>
-
----
-
-## 📈 Detailed Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/xpalien?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&discussions=1&followup=1&lines=1&repositories=1&code=1&activity=1&config.timezone=America%2FNew_York&config.twemoji=true&config.octicon=true" alt="Detailed Metrics" width="95%"/>
 </p>
 
 ---
