@@ -248,12 +248,6 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 
 🎧 **Check out my beats and production services:** [BuySomeBeats.com](https://buysomebeats.com)
 
-<p align="center">
-  <a href="https://open.spotify.com/user/xpalien" target="_blank">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
-  </a>
-</p>
-
 ---
 
 ## 🎓 Certifications & Badges
