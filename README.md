@@ -17,9 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benmonroejr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xpalien)
 [![X](https://img.shields.io/badge/X-%2312100E.svg?logo=X&logoColor=white)](https://twitter.com/xPALien)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCxb0SpElOx1buCVdCuc7dcA)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/xPAlien)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/xPAlien)
 [![Music Website](https://img.shields.io/badge/🎵_BuySomeBeats.com-FF6B6B?style=flat&logoColor=white)](https://buysomebeats.com)
 
 ---
