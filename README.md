@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Cloud+Security+Engineer;DevSecOps+Enthusiast;Pro+Tools+Engineer;AI+Security+Innovator" alt="typing">
-</p>
-
 # 👋🏾 Hi, I'm Benjamin Monroe
 
 💼 **Associate Project Engineer** at [World Wide Technology](https://www.wwt.com)
@@ -14,11 +10,33 @@
 ---
 
 ## 🌍 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benmonroejr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xpalien)
 [![X](https://img.shields.io/badge/X-%2312100E.svg?logo=X&logoColor=white)](https://twitter.com/xPALien)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/xPAlien)
 [![Music Website](https://img.shields.io/badge/🎵_BuySomeBeats.com-FF6B6B?style=flat&logoColor=white)](https://buysomebeats.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xpalien&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xpalien&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpalien&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xpalien&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -97,6 +115,7 @@
 ---
 
 ## ⚙️ Current Focus
+
 - 🌩 Building **cloud-native security projects** on AWS, Azure, and GCP
 - 🔧 Mastering **DevSecOps**, IaC with Terraform, Docker, and Kubernetes
 - 🧠 Exploring **AI for cybersecurity** and digital automation
@@ -248,14 +267,6 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 <p align="center">
   <img src="https://raw.githubusercontent.com/xPAlien/xPAlien/output/github-contribution-grid-snake-dark.svg" alt="Snake animation showing contributions" width="95%"/>
 </p>
-
----
-
-## 📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-_Coming soon! Stay tuned for articles on cloud security, DevSecOps, and AI-driven automation._
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
