@@ -246,8 +246,8 @@ My dual expertise in **technology and music** gives me a unique perspective on c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xpalien&theme=react-dark&hide_border=false&area=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Activity Graph" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/F75C7E/xpalien" alt="Contribution Calendar" width="95%"/>
+<p align="center" style="background-color: #0D1117; padding: 10px; border-radius: 6px;">
+  <img src="https://ghchart.rshah.org/0D1117/F75C7E/xpalien" alt="Contribution Calendar" width="95%"/>
 </p>
 
 ---
