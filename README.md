@@ -163,6 +163,7 @@
 ![Pro Tools](https://img.shields.io/badge/Pro_Tools-7ACB10?style=for-the-badge&logo=avid&logoColor=white)
 ![Logic Pro](https://img.shields.io/badge/Logic_Pro-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ableton](https://img.shields.io/badge/Ableton-000000?style=for-the-badge&logo=ableton-live&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-FF6600?style=for-the-badge&logo=flstudio&logoColor=white)
 
 **Design & Media**
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -246,8 +247,8 @@ My dual expertise in **technology and music** gives me a unique perspective on c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xpalien&theme=react-dark&hide_border=false&area=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Activity Graph" width="95%"/>
 </p>
 
-<p align="center" style="background-color: #0D1117; padding: 10px; border-radius: 6px;">
-  <img src="https://ghchart.rshah.org/0D1117/F75C7E/xpalien" alt="Contribution Calendar" width="95%"/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/F75C7E/xpalien" alt="Contribution Calendar" width="95%"/>
 </p>
 
 ---
