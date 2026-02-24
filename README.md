@@ -183,11 +183,14 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-181A1F?style=for-the-badge&logo=anthropic&logoColor=D97757)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Development Environments**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Kilo Code](https://img.shields.io/badge/Kilo_Code-4A90E2?style=for-the-badge&logo=code&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-5D3FD3?style=for-the-badge&logo=code&logoColor=white)
 
 </details>
 
