@@ -248,7 +248,7 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 </p>
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/xpalien?theme=githubDark" alt="GitHub Contributions Chart" width="95%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xpalien&theme=react-dark&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
