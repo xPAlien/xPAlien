@@ -244,11 +244,7 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 </p>
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/github-contributions?username=xpalien&background=00000000&color=F75C7E&animation=true" alt="Isometric Contribution Grid" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xpalien&theme=react-dark&hide_border=false&area=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xpalien&theme=radical&hide_border=false&layout=compact" alt="Weekly Stats" width="95%"/>
 </p>
 
 ---
