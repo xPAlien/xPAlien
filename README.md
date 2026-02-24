@@ -248,7 +248,7 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/F75C7E/xpalien" alt="Contribution Calendar" width="95%"/>
+  <img src="https://github-contributions.vercel.app/api/v1/xpalien?theme=githubDark" alt="GitHub Contributions Chart" width="95%"/>
 </p>
 
 ---
