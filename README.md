@@ -247,10 +247,6 @@ My dual expertise in **technology and music** gives me a unique perspective on c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xpalien&theme=react-dark&hide_border=false&area=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Activity Graph" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xpalien&theme=react-dark&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
-</p>
-
 ---
 
 ## ☕ Support My Work
