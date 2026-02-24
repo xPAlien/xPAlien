@@ -247,7 +247,7 @@ My dual expertise in **technology and music** gives me a unique perspective on c
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xpalien&theme=radical&hide_border=false&layout=compact" alt="Weekly Stats" width="95%"/>
+  <img src="https://ghchart.rshah.org/F75C7E/xpalien" alt="Contribution Calendar" width="95%"/>
 </p>
 
 ---
