@@ -24,17 +24,17 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">FileZen</h3>
+<h3 align="center">KillchainLabs</h3>
 <div align="center">
-<a href="https://getfilezen.com" target="_blank">
+<a href="https://killchainlabs.com" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
-<p><strong>File Organization, Simplified</strong></p>
-<p>Smart file organization for macOS and Windows. Find duplicates, flatten folders, and keep everything perfectly organized.</p>
+<p><strong>Offensive Security & Red Team Research</strong></p>
+<p>Cybersecurity research lab focused on offensive security, red team operations, and adversarial simulation.</p>
 <p>
-<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security-FF0000?style=flat&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red_Team-1A1A2E?style=flat&logo=kalilinux&logoColor=white"/>
 </p>
 </div>
 </td>
@@ -101,7 +101,7 @@
 - 🚀 Growing [**DigitalRichKid.com**](https://digitalrichkid.com) – AI-driven digital wealth ecosystem
 - 🧱 Developing [**MOAISecurity.com**](https://moaisecurity.com) – AI security & trust technology
 - 🌐 Building my personal brand at [**BenMonroe.ai**](https://benmonroe.ai)
-- 📱 Launching [**FileZen**](https://getfilezen.com) – Smart file organization for macOS & Windows
+- 🔴 Building [**KillchainLabs.com**](https://killchainlabs.com) – Offensive security & red team research
 
 ---
 
