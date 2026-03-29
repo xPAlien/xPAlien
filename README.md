@@ -24,7 +24,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">KillChain Labs</h3>
+<h3 align="center">🔗 KillChain Labs</h3>
 <div align="center">
 <a href="https://killchainlabs.com" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
@@ -40,7 +40,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">MOAI Security</h3>
+<h3 align="center">🗿 MOAI Security</h3>
 <div align="center">
 <a href="https://moaisecurity.com" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
@@ -58,7 +58,7 @@
 
 <tr>
 <td width="50%">
-<h3 align="center">DigitalRichKid</h3>
+<h3 align="center">💰 DigitalRichKid</h3>
 <div align="center">
 <a href="https://digitalrichkid.com" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
@@ -74,7 +74,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">BenMonroe.ai</h3>
+<h3 align="center">🤖 BenMonroe.ai</h3>
 <div align="center">
 <a href="https://benmonroe.ai" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
