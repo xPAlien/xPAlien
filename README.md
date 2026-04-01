@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
 <p><strong>Cybersecurity Training Platform</strong></p>
-<p>56 hands-on challenges across 7 security domains — SOC Analysis, Pentesting, Cloud Security & more — structured around the Cyber Kill Chain.</p>
+<p>56 hands-on challenges across 7 security domains. SOC Analysis, Pentesting, Cloud Security & more. Structured around the Cyber Kill Chain.</p>
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Convex-EE342F?style=flat&logo=convex&logoColor=white"/>
