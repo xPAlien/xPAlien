@@ -260,7 +260,7 @@ If you find my projects helpful or want to support my work in cloud security and
 
 ## 🤝 Contributing / Contact
 
-- 💡 PRs are welcome — feel free to open issues for suggestions or improvements
+- 💡 PRs are welcome - feel free to open issues for suggestions or improvements
 - 🤝 For collaborations, client work, or music production: connect via [LinkedIn](https://linkedin.com/in/benmonroejr)
 
 <p align="center">
