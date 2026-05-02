@@ -39,7 +39,7 @@ Cloud security builder focused on practical DevSecOps, AI security, and producti
 - Building cloud-native security projects across AWS, Azure, and Google Cloud
 - Practicing DevSecOps with Terraform, Docker, Kubernetes, and CI/CD
 - Exploring AI for cybersecurity, trust, and digital automation
-- Completed SANS Cyber Academy and GIAC GFACT; currently working toward GSEC
+- Continuing SANS Cyber Academy; completed GIAC GFACT and currently working toward GSEC
 
 ---
 
