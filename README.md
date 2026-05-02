@@ -4,7 +4,7 @@ Cloud security builder focused on practical DevSecOps, AI security, and producti
 
 - Associate Project Engineer at [World Wide Technology](https://www.wwt.com)
 - Bachelor's in Cloud Computing, in progress
-- TryHackMe Top 3% and lifelong security learner
+- Lifelong security learner
 - Pro Tools engineer and music producer with 10+ years of studio experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/benmonroejr)
@@ -39,7 +39,7 @@ Cloud security builder focused on practical DevSecOps, AI security, and producti
 - Building cloud-native security projects across AWS, Azure, and Google Cloud
 - Practicing DevSecOps with Terraform, Docker, Kubernetes, and CI/CD
 - Exploring AI for cybersecurity, trust, and digital automation
-- Preparing for SANS Cyber Academy in 2026
+- Completed SANS Cyber Academy and GIAC GFACT; currently working toward GSEC
 
 ---
 
