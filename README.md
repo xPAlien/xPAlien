@@ -5,7 +5,7 @@ Cloud security builder focused on practical DevSecOps, AI security, and producti
 - Associate Project Engineer at [World Wide Technology](https://www.wwt.com)
 - Bachelor's in Cloud Computing, in progress
 - Lifelong security learner
-- Pro Tools engineer and music producer with 10+ years of studio experience
+- Pro Tools engineer and music producer with 20+ years of studio experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/benmonroejr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/xPAlien)
