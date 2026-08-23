@@ -5,13 +5,13 @@ This GitHub profile README repository has several broken or degraded features, o
 
 ## Technical Debt
 
-- **Outdated Actions versions** — Both workflows pin `actions/checkout@v3` and `crazy-max/ghaction-github-pages@v3`; `@v4` has been available for over a year.
+- **Outdated Actions versions** — The remaining workflow pins `actions/checkout@v3`; `@v4` has been available for over a year.
 - **Hardcoded stale timestamp** — `_Last updated: 2025-12-28_` in README.md is already out of date and requires manual updates.
 
 ## Security Concerns
 
-- **Unpinned third-party actions** — `gautamkrishnar/blog-post-workflow@v1` and `Platane/snk/svg-only@v3` are mutable tags. A supply-chain compromise would execute in the repo's context. Should be pinned to commit SHAs.
-- **Overly broad GITHUB_TOKEN** — No `permissions:` blocks in either workflow; token inherits repository-default write access.
+- **Unpinned third-party actions** — `gautamkrishnar/blog-post-workflow@v1` is a mutable tag. A supply-chain compromise would execute in the repo's context. It should be pinned to a commit SHA.
+- **Overly broad GITHUB_TOKEN** — No `permissions:` block in the remaining workflow; token inherits repository-default write access.
 - **`.planning/` directory is public** — This codebase map will be committed to a public GitHub profile repo and visible to anyone.
 
 ## Broken Features
