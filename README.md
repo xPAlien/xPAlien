@@ -22,15 +22,23 @@ My primary portfolio and project hub for cybersecurity, cloud infrastructure, AI
 
 ### [MOAI Security](https://moaisecurity.com)
 
-AI security and trust technology in development for investigation, validation, and security operations.
+AI security concept for prompt attacks, model abuse, and analyst triage.
+
+### [Primer](https://primer.benmonroe.ai)
+
+Hands-on AI education through live demos covering tokens, context windows, temperature, hallucination, and RAG.
 
 ### [KillChain Labs](https://killchainlabs.com)
 
-Browser-based cybersecurity training for investigation, offensive security, and defensive analysis.
+Security training concept for offensive and defensive practice labs.
 
 ### [DigitalRichKid](https://digitalrichkid.com)
 
-AI-assisted products and resources for independent creators and digital businesses.
+Publishing site for AI education, creator pages, and digital product offers.
+
+### [Yoshii Code](https://benmonroe.ai/projects/yoshii-code)
+
+Local-first coding workspace for contextual review and approval-driven development. In development.
 
 ## Core Stack
 
